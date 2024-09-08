@@ -1,0 +1,44 @@
+I.	Langkah – langkah menjalan kode 
+Berikut adalah langkah-langkah untuk menjalankan kode Python Genarete Dummy Data di Visual Studio Code:
+1)	Pastikan Anda memiliki Python terinstal: Buka terminal di VS Code dan ketik python --version. Jika Python belum terinstal, unduh dan instal dari https://www.python.org/.
+2)	Buat lingkungan virtual (opsional, tapi direkomendasikan):
+•	Buka terminal di VS Code dan navigasi ke direktori proyek Anda.
+•	Buat lingkungan virtual: python -m venv nama_env (ganti nama_env dengan nama yang Anda inginkan).
+•	Aktifkan lingkungan virtual:
+•	Windows: nama_env\Scripts\activate
+•	macOS/Linux: source nama_env/bin/activate
+3)	Instal library yang diperlukan:
+•	Pastikan lingkungan virtual Anda aktif.
+•	Instal library dengan perintah: pip install faker & pip install psycopg2
+4)	Buka kode Python Anda di VS Code:
+•	Klik "File" -> "Open File" dan pilih file Python Anda.
+5)	Jalankan kode:
+•	Tekan tombol "Play" di pojok kanan atas editor atau tekan F5.
+•	Jika diminta untuk memilih konfigurasi debug, pilih "Python File".
+6)	Lihat output:
+•	Output akan ditampilkan di terminal VS Code.
+•	File CSV akan dibuat di direktori proyek Anda.
+Panduan berikut untuk menjalankan kode python memasukkan data csv ke dalam database postgresql. Dan langkah – langkah 1 – 3 sama dengan di atas yang membedakan hanya berikut
+1.	Sesuaikan koneksi database:
+•	Ubah nilai host, database, user, password, dan port sesuai dengan konfigurasi database PostgreSQL Anda.
+2.	Jalankan kode:
+•	Tekan tombol "Play" di pojok kanan atas editor atau tekan F5.
+•	Jika diminta untuk memilih konfigurasi debug, pilih "Python File".
+3.	Lihat output:
+•	Output akan ditampilkan di terminal VS Code, menunjukkan apakah impor data berhasil atau terjadi error.
+II.	Penjelasan mengenai project yang dibuat
+Saya membangun struktur database yang kuat dan efisien untuk mendukung aplikasi penjualan mobil bekas. Saya memulai dengan membuat tabel-tabel fundamental yang mewakili entitas-entitas utama dalam sistem ini. Secara keseluruhan, saya merancang skema ini dengan mempertimbangkan integritas data, efisiensi query, dan fleksibilitas untuk pengembangan fitur di masa mendatang. Saya menggunakan constraint, foreign key, dan indeks untuk memastikan data yang disimpan akurat dan mudah diakses. Dengan struktur ini, aplikasi penjualan mobil bekas akan memiliki fondasi database yang kokoh untuk beroperasi.
+Kode Python ini adalah alat yang saya buat untuk menghasilkan data dummy yang realistis untuk aplikasi penjualan mobil bekas. Saya ingin memastikan bahwa aplikasi ini memiliki data yang cukup untuk pengujian dan pengembangan, tanpa harus bergantung pada data asli pengguna.Saya berharap kode ini akan berguna bagi pengembang lain yang bekerja pada aplikasi serupa. Dengan sedikit modifikasi, kode ini dapat disesuaikan dengan kebutuhan spesifik proyek Anda.
+Saya telah merancang skrip Python ini untuk menyederhanakan proses impor data dari beberapa file CSV ke dalam database PostgreSQL. Tujuan utama saya adalah memastikan integritas data dan efisiensi selama proses impor. Saya yakin bahwa skrip ini akan menjadi aset berharga bagi siapa saja yang perlu mengimpor data CSV ke PostgreSQL secara teratur dan aman.
+III.	ERD
+Data telah di upload di github (https://github.com/aliizzudin0505/Tugas_Sql_Relationship)
+IV.	Syntax DDL
+Data telah di upload di github (https://github.com/aliizzudin0505/Tugas_Sql_Relationship)
+V.	Dummy dataset
+Data telah di upload di github (https://github.com/aliizzudin0505/Tugas_Sql_Relationship)
+VI.	Transactional Query
+Data telah di upload di github (https://github.com/aliizzudin0505/Tugas_Sql_Relationship)
+VII.	Analytical Query
+Data telah di upload di github (https://github.com/aliizzudin0505/Tugas_Sql_Relationship)
+
+
