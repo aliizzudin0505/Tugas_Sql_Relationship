@@ -1,0 +1,101 @@
+ID,Merek_ID,Nama
+1,1,Avanza
+2,1,Innova
+3,1,Fortuner
+4,1,Yaris
+5,1,Rush
+6,1,Calya
+7,1,Agya
+8,1,Vios
+9,1,Camry
+10,1,Corolla Altis
+11,2,Brio
+12,2,Mobilio
+13,2,BR-V
+14,2,HR-V
+15,2,CR-V
+16,2,Civic
+17,2,Accord
+18,2,City
+19,2,Jazz
+20,2,Odyssey
+21,3,Ertiga
+22,3,XL7
+23,3,Ignis
+24,3,Baleno
+25,3,Swift
+26,3,Karimun Wagon R
+27,3,APV
+28,3,Grand Vitara
+29,3,Jimny
+30,3,SX4
+31,4,Xenia
+32,4,Terios
+33,4,Ayla
+34,4,Sigra
+35,4,Sirion
+36,4,Gran Max
+37,4,Luxio
+38,4,Rocky
+39,4,Mira
+40,4,Copen
+41,5,Xpander
+42,5,Pajero Sport
+43,5,Triton
+44,5,Outlander
+45,5,Mirage
+46,5,Eclipse Cross
+47,5,L300
+48,5,Colt
+49,5,Fuso
+50,5,Delica
+51,6,Livina
+52,6,X-Trail
+53,6,Terra
+54,6,Navara
+55,6,Serena
+56,6,Juke
+57,6,Almera
+58,6,March
+59,6,GT-R
+60,6,370Z
+61,7,CX-5
+62,7,Mazda2
+63,7,Mazda3
+64,7,CX-3
+65,7,CX-8
+66,7,CX-9
+67,7,MX-5
+68,7,BT-50
+69,7,6
+70,7,RX-8
+71,8,3 Series
+72,8,5 Series
+73,8,X1
+74,8,X3
+75,8,X5
+76,8,7 Series
+77,8,Z4
+78,8,M3
+79,8,M5
+80,8,i8
+81,9,C-Class
+82,9,E-Class
+83,9,GLC
+84,9,GLE
+85,9,S-Class
+86,9,A-Class
+87,9,CLA
+88,9,GLA
+89,9,G-Class
+90,9,AMG GT
+91,10,A3
+92,10,A4
+93,10,Q3
+94,10,Q5
+95,10,Q7
+96,10,A6
+97,10,A8
+98,10,TT
+99,10,R8
+100,10,e-tron
