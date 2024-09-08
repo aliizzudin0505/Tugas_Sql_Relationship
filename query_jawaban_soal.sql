@@ -1,3 +1,5 @@
+Transactional Query
+	
 --Jawaban Nomer 4 a
 SELECT * 
 FROM "Produk"
@@ -49,6 +51,13 @@ ORDER BY
 LIMIT 1;
 
 
+
+
+
+
+
+Analytical Query
+	
 --Jawaban Nomer 5 a
 SELECT 
     M."Nama" AS "Model_Mobil",
