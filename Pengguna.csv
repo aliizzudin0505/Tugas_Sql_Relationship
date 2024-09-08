@@ -1,0 +1,51 @@
+ID,Nama,Kontak,Role,Username,Password,Email,Foto_Profil,Tanggal_Registrasi,Status_Akun,Domisili_ID
+1,Maria Mcintosh,001-748-890-1226x232,Pembeli,brian08,%FNs5HgoK%,wendynichols@example.net,,2024-06-20 05:31:09,Tidak Aktif,19
+2,James Smith,+1-972-621-7786x74163,Pembeli,jilliantaylor,I^1YGYuf@),melissasavage@example.com,,2024-05-05 16:23:10,Tidak Aktif,14
+3,Martin Hunt,001-271-340-3660,Penjual,richard56,5YTYZzTQ#2,higginstony@example.com,,2023-10-13 06:44:05,Aktif,7
+4,Bethany Sanchez,(654)725-4492x851,Penjual,shellystone,OM5lU^(z@q,jessicaayala@example.org,,2024-07-22 20:38:30,Aktif,8
+5,Paul Lam,979-528-9777,Pembeli,owenbrittany,@6@E^Cmgx0,stephaniemartin@example.org,,2023-12-02 18:56:24,Aktif,32
+6,David White,001-499-252-5994x536,Penjual,samuelgarner,)wAi8Bz0i2,greennicole@example.org,,2024-02-23 18:45:45,Tidak Aktif,7
+7,Maureen Thornton,921-377-1793x02796,Pembeli,moorecarl,gzrmCaJT^9,tparker@example.com,,2023-12-10 09:26:06,Tidak Aktif,40
+8,Douglas Santiago,442-247-1362x9164,Penjual,cflores,Tw0DhHuDd(,frankmorrison@example.net,,2024-09-03 23:58:28,Aktif,15
+9,John Boyer,001-731-634-2779,Penjual,crystalsmith,Fz9Tzy_Dk(,jrodriguez@example.org,,2024-03-21 04:47:12,Tidak Aktif,3
+10,Sarah Flynn,2123642694,Pembeli,martinezcatherine,^UbCrEYu7d,jwheeler@example.com,,2024-01-30 07:22:17,Aktif,25
+11,Matthew Avila,896.802.9253x29350,Penjual,vwashington,O6J6P(+hW),daniel97@example.com,,2024-03-27 16:04:53,Tidak Aktif,25
+12,Joshua Koch,+1-810-930-0098x44954,Penjual,dmiller,_(Bp4GrpwK,kimtroy@example.org,,2024-06-28 15:00:13,Tidak Aktif,27
+13,Travis Harris,(342)636-7068,Penjual,gnash,nY^w61Zj39,dmarsh@example.org,,2024-05-21 10:38:27,Aktif,11
+14,Jennifer Thompson,(984)848-4632x69484,Pembeli,bstewart,H9FgZybm(r,christinepierce@example.org,,2024-09-03 07:51:22,Aktif,36
+15,Heather Lynch,823.355.2579,Penjual,cainrodney,8bC_v04A%0,williamsstacy@example.org,,2024-02-18 21:44:16,Tidak Aktif,35
+16,Susan Molina,(808)467-1123,Pembeli,klamb,Rfk8WwNeD(,churchalex@example.org,,2024-07-29 16:26:54,Tidak Aktif,47
+17,Bobby Golden,001-670-275-8384x93318,Penjual,smithtracy,dz6rWpr0o*,bryanroberts@example.com,,2024-08-08 07:21:18,Tidak Aktif,7
+18,Stephanie Johnson,650.217.7701,Pembeli,emilybowen,Y#c7!Psz_v,angela05@example.com,,2024-05-25 02:55:05,Tidak Aktif,9
+19,Monica Holt MD,001-447-240-8654x766,Pembeli,vmoreno,a8eNCGk#%D,amy00@example.org,,2024-01-11 21:48:42,Aktif,46
+20,Martin Oconnell,718.479.3874x9606,Penjual,richard70,))ct5AuTHg,vesparza@example.net,,2024-01-28 14:23:23,Tidak Aktif,12
+21,Michael Chung,989.392.0243,Penjual,smithgina,W(5OAHYJlg,martin49@example.org,,2023-10-02 09:06:36,Aktif,17
+22,Amy Delgado,001-394-300-6522x29253,Penjual,stantoncheryl,(5*OEKyN##,xmueller@example.net,,2024-05-31 19:53:19,Tidak Aktif,32
+23,Alyssa Todd,001-575-634-1571x558,Penjual,dross,)s^vK^EjO7,ivan17@example.org,,2024-09-07 00:46:46,Aktif,22
+24,Whitney Buchanan,4407642611,Penjual,collinsdavid,b^(IX1mEoR,turnerholly@example.net,,2024-02-22 09:06:45,Tidak Aktif,12
+25,Nicole Smith,(384)670-1155x2847,Penjual,williamsjoseph,oVMtUf0e!4,julie33@example.org,,2024-05-21 14:07:30,Tidak Aktif,25
+26,Kathleen Smith,338.468.7965,Penjual,xfreeman,#G2nTrQja5,markharrington@example.com,,2024-07-19 12:27:59,Aktif,40
+27,Christine Johnson,(773)671-7722x8507,Pembeli,xavier24,2H0hSOmo%K,vazquezkenneth@example.com,,2024-07-20 12:19:42,Aktif,1
+28,James Williams,652-397-1493,Pembeli,pphillips,_v2IJRhmZ(,michael02@example.org,,2024-02-14 22:53:08,Aktif,35
+29,Jeremy Carr,626.375.3953x73562,Penjual,blanchardsara,_6mD4TuOkt,freemancraig@example.org,,2023-12-08 18:27:01,Aktif,16
+30,Melissa White,001-287-927-7057x8629,Penjual,darlenesalas,0eIAbaQO%Z,williamskelly@example.net,,2023-12-15 10:41:07,Aktif,32
+31,Jeff Thompson,985.682.0298x49339,Penjual,hodgescatherine,BhWG2ZqVM&,middletonchristopher@example.com,,2023-12-16 10:15:54,Tidak Aktif,35
+32,Lindsey Scott,(322)677-6990x367,Pembeli,joanna33,78Oc58q)#6,idennis@example.com,,2023-12-13 23:02:08,Aktif,50
+33,Chelsea Sanchez,824.647.7080,Pembeli,joshuahuang,u+!1L&JpmV,michaelhardy@example.com,,2023-12-01 08:59:25,Aktif,30
+34,Joseph Knapp,778.718.6100x081,Pembeli,austin01,@@0PYCfh(r,peter34@example.net,,2023-10-28 12:24:57,Tidak Aktif,27
+35,Denise Smith,8813749881,Pembeli,joshuamurphy,^4saKkUqz+,allenmichael@example.org,,2024-01-22 08:52:48,Tidak Aktif,22
+36,Mark Boyer,001-743-747-7687x95980,Penjual,brandon71,_4KAsVle7s,andrew89@example.org,,2023-12-19 21:32:13,Tidak Aktif,29
+37,Luke Thomas,635.975.5207,Penjual,stephanieclark,K2#HmTd%+o,bryan02@example.org,,2024-07-01 18:59:13,Tidak Aktif,7
+38,Jason Wright,001-213-413-7279x9377,Pembeli,trussell,(2yQWAbE7&,glennenglish@example.org,,2024-05-02 17:26:32,Aktif,26
+39,Rebecca Burke,(378)656-6366x2355,Penjual,knapptiffany,3$j3VBRwjW,katrina50@example.org,,2024-05-14 20:38:52,Tidak Aktif,49
+40,Teresa Benitez,452.238.1025x096,Pembeli,lisa54,%RGZ6I)r46,imiller@example.org,,2024-02-21 17:37:44,Aktif,35
+41,Lindsey Harrison,+1-923-817-5814x763,Pembeli,shannon18,E+%T(0Xnxq,melindadelacruz@example.com,,2024-03-28 20:58:52,Aktif,45
+42,David Bryant,(796)343-0304x45650,Penjual,brittany78,eI4KPnXcH%,kristine20@example.com,,2023-09-11 01:41:10,Tidak Aktif,1
+43,Chad Middleton,583-669-0443x7370,Pembeli,zleblanc,Y7MGD&2R#l,amandawright@example.org,,2024-02-28 08:06:42,Tidak Aktif,47
+44,Brittany Gates,439.517.3211x33334,Penjual,elizabeth71,0pYo9o0k$W,brownconnie@example.com,,2024-04-25 06:26:27,Aktif,39
+45,Brandon Smith,442-374-4577x849,Pembeli,drew27,+1Y0AavRCZ,gregory71@example.net,,2023-11-19 01:34:11,Tidak Aktif,26
+46,Michele Barajas,211-201-5493,Penjual,kristenlittle,o$G51Lpc1M,alexandria24@example.net,,2024-01-14 01:29:20,Tidak Aktif,43
+47,William Perez,7962712561,Pembeli,phelpslaura,wKL8FaTy!*,eatondwayne@example.net,,2024-08-19 22:19:19,Tidak Aktif,27
+48,Tiffany Williams,(318)224-5601x6658,Penjual,gsnyder,&7Bi+iGEj9,sean30@example.com,,2023-11-24 13:25:19,Aktif,50
+49,Sara Jackson,386-355-8299x0817,Penjual,sarah31,T2NHgkJR((,dbush@example.net,,2023-09-17 21:24:51,Tidak Aktif,35
+50,Michael Taylor,955-591-0469,Pembeli,grayana,_k(w4HGrX),lewistrevor@example.com,,2023-12-25 01:17:05,Tidak Aktif,43
